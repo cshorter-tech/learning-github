@@ -1,1 +1,1 @@
-console.log("first log")
+console.log("first ool cool")
